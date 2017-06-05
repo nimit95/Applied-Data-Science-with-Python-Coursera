@@ -1,2 +1,2 @@
 # Applied-Data-Science-with-Python-Coursera
-Coursera Data Science Specialization Exercise
+Repo for the first course of the Applied Data Science with Python Specialization taught by University of Michigan hosted by Coursera
